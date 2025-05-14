@@ -629,5 +629,28 @@ body {
         font-size: 1em;
     }
 }
+.cta-button {
+  display: inline-block;
+  margin-top: 1.5rem;
+  background-color: #a96dc0;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 25px;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+  background-color: #8E4C97;
+}
+
+h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 2rem;
+  color: #7a5e9c;
+  margin-bottom: 1rem;
+}
 
 
